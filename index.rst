@@ -10,11 +10,8 @@ Welcome to FantasyBert's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+hey you!
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
